@@ -1,3 +1,7 @@
+# Author: Scott Grivner
+# Website: scottgrivner.dev
+# Abstract: Delete files in a specified directory
+    
 # Import Modules
 import os 
 
