@@ -1,5 +1,5 @@
 # Author: Scott Grivner
-# Website: scottgrivner.dev
+# Website: linktr.ee/scottgriv
 # Abstract: Delete files in a specified directory
     
 # Import Modules
